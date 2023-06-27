@@ -5,5 +5,5 @@
 Aqui, incluímos as informações que são pertinentes ao projeto.
 
 ```
-comandos
+node app.js
 ``` 
